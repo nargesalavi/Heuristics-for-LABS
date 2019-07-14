@@ -1,5 +1,5 @@
 # Heuristics-for-LABS
-Design, Implementation, and Testing of Heuristics for the Low Autocorrelation Binary Sequence (LABS) problem
+Design, Implementation, and Testing of Heuristics for the Low Autocorrelation Binary Sequence (LABS) problem:
 In this project, the aim is to implement, test, and compare heuristic search algorithms for Low Autocorrelation Binary Sequence (LABS). 
 The goal in LABS problem is to maximize the merit, which has various applications in different areas of science. 
 In this project, two (1+1)EA and simulated annealing algorithms are implemented in C++. 
