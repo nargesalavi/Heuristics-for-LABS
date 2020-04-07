@@ -24,13 +24,6 @@ double energy(int* seq, int n){
 
 double meritfactor(int* seq, int n){
 	double E=energy(seq,n);
-	//cout <<"e"<<E;
 	double f=pow(n,2)/(2*E);
-	//cout <<"seq: ";
-	// for (int i = 0; i < n; ++i)
-	// {
-	// 	//cout<<seq[n-1-i];
-	// }
-	//cout<<" meritfactor: "<<f<<" energy: "<< E;
 	return f;
 }

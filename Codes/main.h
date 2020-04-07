@@ -7,6 +7,5 @@
 #include <math.h> 
 #include <chrono>
 #include <ctime>
-//#include "omp.h"
 
 using namespace std;
